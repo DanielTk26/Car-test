@@ -88,3 +88,24 @@ function setup() {
     
 
    //}
+
+
+
+
+drawSprites();
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
